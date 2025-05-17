@@ -1,1 +1,1 @@
-{"mappings":"AACA","sources":["style.css"],"sourcesContent":["\r\n.divJsx {\r\n    background-color: rgb(85, 72, 54);\r\n}"],"names":[],"version":3,"file":"introducao-react.aa436662.css.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AACA","sources":["style.css"],"sourcesContent":["\r\n.divJsx {\r\n    background-color: rgb(207, 134, 32);\r\n}"],"names":[],"version":3,"file":"introducao-react.aa436662.css.map","sourceRoot":"/__parcel_source_root/"}
